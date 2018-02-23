@@ -1,0 +1,2 @@
+Syntax cetak table
+select tabel1.nama field tabel1, tabel2.namafield tabel2 from tabel 1, tabel2 where tabel1.kodefield tabel1=tabel2. kodefield tabel2;
